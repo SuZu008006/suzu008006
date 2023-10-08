@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  <a href="[[https://happyhackingtimes.github.io/](https://happyhackingtimes.github.io/)](https://happyhackingtimes.github.io/)">
+  <a href="https://happyhackingtimes.github.io">
     <img src="https://img.shields.io/badge/Website%2FBlog-happyhackingtimes.github.io-%238cd2d5" alt="happyhackingtimes.github.io"/>
   </a>
 </p>
