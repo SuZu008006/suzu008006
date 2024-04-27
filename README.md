@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://happy-hacking-book.vercel.app/docs">
-    <img src="https://img.shields.io/badge/Website%2FBlog-happyhackingtimes.github.io-%238cd2d5" alt="happy-hacking-book"/>
+    <img src="https://img.shields.io/badge/Website%2FBlog-happy-hacking-book-%238cd2d5" alt="happy-hacking-book"/>
   </a>
 </p>
 
